@@ -1,0 +1,93 @@
+@font-face { font-family: BentModDisp; src: url('./fonts/BentonModDisp\ Regular.fexfont'); } 
+@font-face { font-family: BentModDisp; font-weight: regular; src: url('./fonts/BentonModDisp\ Regular.fexfont');}
+
+@font-face { font-family: BentModDispItalic; src: url('./fonts/BentonModDisp\ BoldItalic.fexfont'); } 
+@font-face { font-family: BentModDispItalic; font-weight: regular; src: url('./fonts/BentonModDisp\ BoldItalic.fexfont');}
+
+
+.contenedor {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+}
+
+.titulo {
+    margin: 50px 0;
+    font-family: 'BentModDispItalic';
+    font-style: italic;
+}
+
+.img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 97%;
+    width: 103%;
+    transform: translate(-50%, -42%);
+    opacity: 0.3;
+}
+
+.main {
+    width: 60%;
+    margin: 0 auto;
+    text-align: justify;  
+}
+
+.parrafoMain {
+    display: flex;
+    flex-direction: row;
+}
+
+.t {
+    height: 188px;
+    margin-top: 64px;
+    padding: 5px;
+}
+
+.separador {
+    margin-top: 300px;
+    font-family: 'BentModDisp';
+}
+
+.parrafo {
+    margin-top: 70px;
+    font-family: 'BentModDisp';
+}
+
+.parrafoConFoto {
+    display: flex;
+    flex-direction: row;
+    font-family: 'BentModDisp';
+}
+
+.imgStar {
+    width: 380px;
+    height: 420px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+
+    .main {
+        width: 90%;
+    }
+
+    .parrafoConFoto {
+        flex-direction: column;
+    }
+
+    .imgStar {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 425px) {
+    
+    .imgStar {
+        width: 100%;
+        margin: 0 auto;
+    }
+}

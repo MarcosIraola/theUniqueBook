@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com_linotype_FontExplorerX_PATH</key>
+	<string>/Users/milagros/Library/Fonts/Futura SCTOT Light.ttf</string>
+	<key>com_linotype_FontExplorerX_comment</key>
+	<string></string>
+	<key>com_linotype_FontExplorerX_copyright</key>
+	<string>(URW)++, Copyright © 2000 by (URW)++ Design &amp; Development</string>
+	<key>com_linotype_FontExplorerX_description</key>
+	<string>Type1 to OpenType conversion by Studio Marvil, s.r.o. http://www.marvil.cz/</string>
+	<key>com_linotype_FontExplorerX_designer</key>
+	<string></string>
+	<key>com_linotype_FontExplorerX_designerURL</key>
+	<string></string>
+	<key>com_linotype_FontExplorerX_embeddingRights</key>
+	<string>Preview &amp; Print Embedding Allowed</string>
+	<key>com_linotype_FontExplorerX_familyName</key>
+	<array>
+		<string>Futura SC T OT</string>
+	</array>
+	<key>com_linotype_FontExplorerX_fileName</key>
+	<array>
+		<string>Futura SCTOT Light.ttf</string>
+	</array>
+	<key>com_linotype_FontExplorerX_format</key>
+	<string>OpenType (PostScript Flavored)</string>
+	<key>com_linotype_FontExplorerX_fullName</key>
+	<array>
+		<string>Futura SC T OT Light</string>
+	</array>
+	<key>com_linotype_FontExplorerX_isBroken</key>
+	<false/>
+	<key>com_linotype_FontExplorerX_isInSystemFolder</key>
+	<true/>
+	<key>com_linotype_FontExplorerX_isSystemFont</key>
+	<false/>
+	<key>com_linotype_FontExplorerX_license</key>
+	<string></string>
+	<key>com_linotype_FontExplorerX_licenseURL</key>
+	<string></string>
+	<key>com_linotype_FontExplorerX_manufacturer</key>
+	<string></string>
+	<key>com_linotype_FontExplorerX_psName</key>
+	<array>
+		<string>FuturaSCTOT-Ligh</string>
+	</array>
+	<key>com_linotype_FontExplorerX_style</key>
+	<array>
+		<string>Light</string>
+	</array>
+	<key>com_linotype_FontExplorerX_trademark</key>
+	<string>Please refer to the Copyright section for the font trademark attribution notices.</string>
+	<key>com_linotype_FontExplorerX_uniqueName</key>
+	<array>
+		<string>1.001;URW ;FuturaSCTOT-Ligh</string>
+	</array>
+	<key>com_linotype_FontExplorerX_vendorName</key>
+	<string>URW++</string>
+	<key>com_linotype_FontExplorerX_vendorURL</key>
+	<string>http://www.urw.de/</string>
+	<key>com_linotype_FontExplorerX_version</key>
+	<string>OTF 1.001;PS 1.05;Core 1.0.27;makeotf.lib(1.11)</string>
+	<key>kMDItemDisplayName</key>
+	<string>Futura SC T OT Light</string>
+	<key>kMDItemTitle</key>
+	<string>Futura SC T OT Light</string>
+</dict>
+</plist>
